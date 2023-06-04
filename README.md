@@ -25,6 +25,8 @@ Print the predicted output.
 
 ## Program:
 ```
+# NAME : BALAMURUGAN B
+# REG NO :212222230016
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("/content/cars.csv")
